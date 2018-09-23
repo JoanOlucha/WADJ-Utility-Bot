@@ -1,0 +1,17 @@
+Bob command is a old and my first command for this bot.
+
+The apply command is for a server that I own in the future we have to make that the question are cutomizable by server.
+
+Prefix command is currently not 100% working, if a user buts per example !prefix ? the bot will write the file prefixes.json like it schould but then it wont repond to any commands.
+
+
+Why do you use alot of file? 
+What do you mean?
+
+WAD token.json prefixes.json music.mp3 botconfig
+Srry i kind off f*** the beta testing stuff out so I will get the back up and load it in a new project because this one gets some randome errors
+Ah
+ima do some changes if its ok with you
+
+Skrrt
+skarrt

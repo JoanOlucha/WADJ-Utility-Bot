@@ -1,0 +1,10 @@
+
+BETA UPDATE 0.0.67 ----------------------------------- 19/09/2018
+
+
+NEW NODE MODULES:
+
+npm install -g nodemon  -- For windows quik start `nodemon`
+
+NEW COMMANDS:
+
